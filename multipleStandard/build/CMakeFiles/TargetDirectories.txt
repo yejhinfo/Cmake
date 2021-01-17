@@ -1,0 +1,8 @@
+/home/nvidia/share/cmake/multipleStandard/build/CMakeFiles/edit_cache.dir
+/home/nvidia/share/cmake/multipleStandard/build/CMakeFiles/rebuild_cache.dir
+/home/nvidia/share/cmake/multipleStandard/build/mylib/CMakeFiles/edit_cache.dir
+/home/nvidia/share/cmake/multipleStandard/build/mylib/CMakeFiles/rebuild_cache.dir
+/home/nvidia/share/cmake/multipleStandard/build/mylib/CMakeFiles/mylib.dir
+/home/nvidia/share/cmake/multipleStandard/build/src/CMakeFiles/edit_cache.dir
+/home/nvidia/share/cmake/multipleStandard/build/src/CMakeFiles/rebuild_cache.dir
+/home/nvidia/share/cmake/multipleStandard/build/src/CMakeFiles/Demo.dir

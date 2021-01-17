@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nvidia/share/cmake/multipleStandard/mylib/pr.hpp
+
+/home/nvidia/share/cmake/multipleStandard/src/hello.cpp
+stdio.h
+-
+../mylib/pr.hpp
+/home/nvidia/share/cmake/multipleStandard/mylib/pr.hpp
+

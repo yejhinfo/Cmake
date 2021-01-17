@@ -1,0 +1,6 @@
+/home/nvidia/share/cmake/multipleRandom/CMakeFiles/edit_cache.dir
+/home/nvidia/share/cmake/multipleRandom/CMakeFiles/rebuild_cache.dir
+/home/nvidia/share/cmake/multipleRandom/CMakeFiles/Demo.dir
+/home/nvidia/share/cmake/multipleRandom/mylib/CMakeFiles/edit_cache.dir
+/home/nvidia/share/cmake/multipleRandom/mylib/CMakeFiles/rebuild_cache.dir
+/home/nvidia/share/cmake/multipleRandom/mylib/CMakeFiles/mylib.dir

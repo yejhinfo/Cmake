@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nvidia/share/cmake/./pr.hpp
+
+/home/nvidia/share/cmake/hello.cpp
+stdio.h
+-
+./pr.hpp
+/home/nvidia/share/cmake/./pr.hpp
+
+/home/nvidia/share/cmake/pr.cpp
+iostream
+-
+
